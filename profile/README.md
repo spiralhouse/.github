@@ -21,6 +21,25 @@ We sustain our company through:
 - Training programs for teams adopting our tools
 - Consulting services to help organizations improve their delivery performance
 
+### Licensing
+
+All SpiralHouse software is released under the Apache License 2.0 with Commons Clause.
+
+#### What You Can Do
+- ✅ Use the software freely in your business
+- ✅ Deploy internally in your organization
+- ✅ View and modify the source code
+- ✅ Share your modifications
+- ✅ Use our software to run your business operations
+
+#### What You Cannot Do
+- ❌ Sell the software
+- ❌ Offer the software as a commercial managed service
+- ❌ Resell hosted or cloud versions
+- ❌ Commercially distribute the software
+
+In simple terms: You can use our software to run your business for free, but you cannot make money by selling our software or services based primarily on our software.
+
 ### Our Flagship Project
 
 **AureaCore** - (Coming soon) Our service catalog solution that helps teams discover, organize, and manage their microservices
